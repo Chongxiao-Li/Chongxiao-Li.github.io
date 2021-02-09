@@ -16,7 +16,7 @@ Global Electrical Engineering Program
 ### Research Experience
 - **The Analysis Model of the Capacitive Pressure Sensor under High Pressure Circumstances &emsp; 10/2019-06/2020**  
 PEFI(Printed Electronics & Flexible Integration) Lab, SJTU
-    - The analysis of the performance of the capacitive pressure sensor under high pressure conditions based on numerical simulations.
+    - Use numerical simulations to analyse the performance of the capacitive pressure sensor under high pressure conditions.
     - Establish the theoretical model of the capacitive pressure sensor and calculate the performance of it under high pressure conditions.
     - Apply the analysis model proposed to the design of the OTFT intergrated pressure sensor.
 - **Flexible Pressure Sensor Based on Hierarchical Microstructures by Laser Scribing &emsp; 08/2019-09/2019**  
