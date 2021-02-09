@@ -28,7 +28,7 @@ PEFI(Printed Electronics & Flexible Integration) Lab, SJTU
 
 ### Curriculum Design
 - **Solution of Question Answering (QA) Problem with BERT &emsp; 06/2019**
-    - Use BERT as the model for QA implementation, answer questions such as the purpose, methods, and results of the research based on the provided abstract of thesis.
+    - Use BERT as the model for QA implementation, answer questions such as the purpose, methods, and results of the research based on the provided abstract of papers.
 - **Remote security monitoring based on SNMP &emsp; 06/2019**
-- **The Control System of Flag Raising and Lowering based on FPGA Programing &emsp; 06/2018**
-- **Solution of Calibrating Problem of Measuring Equipment in Mass Production with Genetic Algorithm (GA) &emsp; 12/2017**
+- **The Control System of Flag Raising and Lowering based on FPGA Programming &emsp; 06/2018**
+- **The Solution of Calibrating Problem of Measuring Equipment in Mass Production with Genetic Algorithm (GA) &emsp; 12/2017**
