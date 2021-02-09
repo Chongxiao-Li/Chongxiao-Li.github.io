@@ -7,7 +7,8 @@
 
 ### Education
 - **Shanghai Jiao Tong University(SJTU) &emsp; 09/2016-07/2020**  
-BE in Electronic Science and Technology &emsp; Chuying Program
+BE in Electronic Science and Technology  
+Chuying Program
 - **University of Washington &emsp; 07/2018-08/2018**  
 Global Electrical Engineering Program
 - **NO.1 Middle School Affiliated to CCNU &emsp; 09/2013-06/2016**
