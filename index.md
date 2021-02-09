@@ -3,7 +3,7 @@
 ### Contact
 - TEL: +86 18217325315  
 - Email: chongxiao_li@outlook.com  
-- Blog: chongxiao_li.github.io  
+- Blog: chongxiao-li.github.io  
 
 ### Education
 - **Shanghai Jiao Tong University(SJTU) &emsp; 09/2016-07/2020**  
