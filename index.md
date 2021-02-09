@@ -7,8 +7,7 @@
 
 ### Education
 - **Shanghai Jiao Tong University(SJTU) &emsp; 09/2016-07/2020**  
-BE in Electronic Science and Technology  
-Chuying Program  
+BE in Electronic Science and Technology &emsp; Chuying Program
 - **University of Washington &emsp; 07/2018-08/2018**  
 Global Electrical Engineering Program
 - **NO.1 Middle School Affiliated to CCNU &emsp; 09/2013-06/2016**
@@ -22,7 +21,7 @@ PEFI(Printed Electronics & Flexible Integration) Lab, SJTU
 - **High Performance Flexible Pressure Sensor Based on Hierarchical Microstructures by Laser Scribing &emsp; 08/2019-09/2019**  
 Frontier Research Center, Institute of Flexible Electronics Technology of THU, Zhejiang
     - Use the laser to scribe the surface of the pressure sensitive film and form hierarchical microstructures to improve the performance of the pressure sensor.
-- **Flexible Pressure Sensor with Microstructures based on Expandable Microspheres &emsp; 03/2019-07/2019**
+- **Flexible Pressure Sensor with Microstructures based on Expandable Microspheres &emsp; 03/2019-07/2019**  
 PEFI(Printed Electronics & Flexible Integration) Lab, SJTU  
     - Use expandable microspheres to prepare porous pressure sensitive films with microstructures, and fabricate the flexible pressure sensor with the film.
 
