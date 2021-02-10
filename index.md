@@ -29,6 +29,19 @@ PEFI(Printed Electronics & Flexible Integration) Lab, SJTU
 ### Curriculum Design
 - **Solution of Question Answering (QA) Problem with BERT &emsp; 06/2019**
     - Use BERT as the model for QA implementation, answer questions such as the purpose, methods, and results of the research based on the provided abstract of papers.
-- **Remote security monitoring based on SNMP &emsp; 06/2019**
-- **The Control System of Flag Raising and Lowering based on FPGA Programming &emsp; 06/2018**
+- **Remote Security Monitoring based on SNMP &emsp; 06/2019**
+    - Develop a console application and a GUI application based on SNMP, let users monitor the condition of the CPU, memory, storage, and network traffic of a computer. Develop a threshold alarm function, let users set the alarming threshold, and automatically alarm when the threshold is exceeded.
+- **A Flag Raising and Lowering Control System based on FPGA &emsp; 06/2018**
+    - Use an FPGA board to control a motor, simulate the flag raising and lowering control system, realized by VHDL.
 - **The Solution of Calibrating Problem of Measuring Equipment in Mass Production with Genetic Algorithm (GA) &emsp; 12/2017**
+    - Calibrated a temperature measurer by cubic spline interpolation and used GA to determine the number of calibration points and temperature needed for spline interpolation.
+
+### Conferences
+- **International Conference on Flexible Electronics 2019 (ICFE2019)**
+- **The Chinese Congress of Theoretical and Applied Mechanics 2019 (CCTAM2019)**
+
+### Professional Skill & Language Ability
+- **Professional Skill**
+    - c/c++, python, MATLAB, VHDL, Verilog, ABAQUS, COMSOL, LabVIEW, Origin, Latex
+- **Language Ability**
+    - TOEFL 100/120, GRE 322/340
