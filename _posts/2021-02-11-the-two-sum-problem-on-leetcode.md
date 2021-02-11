@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "Comments on LeetCode TWO SUM problem."  
+title: "The TWO SUM problem on LeetCode"  
 author: "Chongxiao Li"
 tags: ["LeetCode", "algorithm"]
 ---
