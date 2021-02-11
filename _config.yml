@@ -1,13 +1,13 @@
 # Site settings
 title:          Chongxiao's Blog
 description:    "Sharing Chongxiao's thinkings, views, and experiences."
-url:            https://inelaah.com
+url:            https://chongxiao-li.github.io
 
 # Author
 author:
   name:         Chongxiao Li
   email:        chongxiao_li@outlook.com
-  url:          https://chongxiao-li.github.io
+  url:          https://inelaah.com
 
 # Build settings
 markdown:       kramdown
