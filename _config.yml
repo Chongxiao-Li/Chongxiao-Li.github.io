@@ -66,6 +66,31 @@ paginate:              5
 paginate_path:         /page-:num/
 
 
+# Sidebar
+# ========================================================================================
+defaults:
+  - scope:
+      path: blog.md
+    values:
+      menu: true
+      order: 1
+  - scope:
+      path: projects.md
+    values:
+      menu: true
+      order: 2
+  - scope:
+      path: resume.md
+    values:
+      menu: true
+      order: 3
+  - scope:
+      path: about.md
+    values:
+      menu: true
+      order: 4
+
+
 # Customizaton
 # ========================================================================================
 
@@ -221,12 +246,12 @@ plugins:
 #   publisher:           <id>
 #   admins:              <id>
 
-# Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/chongxiao-li
+ Used on index and about sites
+ social:
+   name:                <firstname> <lastname>
+   links:
+     - https://twitter.com/<username>
+     - https://github.com/chongxiao-li
 
 
 # Other Plugins
