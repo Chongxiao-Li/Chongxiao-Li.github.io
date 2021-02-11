@@ -1,7 +1,7 @@
 # Site settings
 title:          Chongxiao's Blog
-description:    "Sharing Chongxiao's thinkings, views, and experiences"
-url:            https://github.com/inelaah/rain
+description:    "Sharing Chongxiao's thinkings, views, and experiences."
+url:            https://chongxiao-li.github.io
 
 # Author
 author:
@@ -35,6 +35,5 @@ related_posts_section:
 # Links to social media
 social:
   email: chongxiao_li@outlook.com
-  github: https://github.com/chongxiao-li
-#  twitter: https://twitter.com
+  github: https://github.com/Chongxiao-Li
   linkedin: https://www.linkedin.com/in/chongxiao-li/
