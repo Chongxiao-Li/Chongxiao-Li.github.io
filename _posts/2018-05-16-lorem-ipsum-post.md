@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Lorem Ipsum post"
-author: "Inela"
+title: "Comments on LeetCode TWO SUM problem."
+author: "Chongxiao Li"
 ---
 
 hahahaha
+
+blah, blah, blah...
